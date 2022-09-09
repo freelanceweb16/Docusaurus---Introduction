@@ -84,7 +84,7 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
+                label: 'Tutoriel',
                 to: '/docs/intro',
               },
             ],
@@ -120,7 +120,7 @@ const config = {
             ],
           },
         ],
-        copyright: `Copyright © ${new Date().getFullYear()} My Project, Inc. Built with Docusaurus.`,
+        copyright: `Copyright © ${new Date().getFullYear()} Freelanceweb16, Inc. Built with Docusaurus.`,
       },
       prism: {
         theme: lightCodeTheme,
